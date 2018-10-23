@@ -1,0 +1,4 @@
+*.vh.default.conf~
+/dockerfile-nginx~
+*~
+*.dockerfile-nginx.swp

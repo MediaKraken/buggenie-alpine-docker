@@ -1,0 +1,5 @@
+*.sh~
+/Dockerfile~
+*.run.sh.un~
+*.Dockerfile.un~
+*.Dockerfile.swp
